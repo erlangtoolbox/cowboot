@@ -1,2 +1,2 @@
-cowboot
+Erlang Cowboy Boot Application
 =======
