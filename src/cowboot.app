@@ -13,6 +13,6 @@
         kernel,
         stdlib
     ]},
-    {mod, {cowboot, []}},
+    {mod, {cowboot_app, []}},
     {env, []}
 ]}.
